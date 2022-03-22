@@ -1,0 +1,13 @@
+themes/*
+*.lock
+*.xml
+resources
+tags
+*/*.html
+public
+
+### vsoce ###
+.vscode
+
+### goland ###
+.idea
