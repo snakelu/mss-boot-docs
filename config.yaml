@@ -1,4 +1,4 @@
-baseURL: "https://mss-boot-io.github.io/mss-boot"
+baseURL: "https://mss-boot-io.github.io/mss-boot-docs"
 languageCode: en-us
 title: mss-boot documents
 theme: hugo-fresh
@@ -20,7 +20,7 @@ params:
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/logo-s.png
-    link: /mss-boot/
+    link: /mss-boot-docs/
 
   font:
     name: "Open Sans"
@@ -38,15 +38,15 @@ params:
     image: illustrations/worker.svg
   navbar:
   - title: 文档
-    url: /mss-boot/latest
+    url: /mss-boot-docs/latest
   - title: 交流
-    url: /mss-boot/communicate
+    url: /mss-boot-docs/communicate
   - title: version
     sublinks:
     - title: v0.0.1
-      url: /mss-boot/latest
+      url: /mss-boot-docs/latest
     - title: latest
-      url: /mss-boot/latest
+      url: /mss-boot-docs/latest
   - title: Github
     url: https://github.com/mss-boot-io/mss-boot
   footer:
