@@ -33,7 +33,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: /mss-boot/latest
+    buttonlink: /mss-boot-docs/latest/
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
   navbar:
@@ -50,7 +50,7 @@ params:
   - title: Github
     url: https://github.com/mss-boot-io/mss-boot
   footer:
-    # Logo (from /mss-boot/images/logos/___)
+    # Logo (from /mss-boot-docs/images/logos/___)
     logo: logo-s.png
     # Social Media Title
     socialmediatitle: Follow Me
